@@ -1,3 +1,25 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+/* main image */
+
+/* #main-image {
+    height: 80000px;
+    width: 100%;
+    background: url('../images/crystal-rock-lasvit-pendant-lamp.jpg') no-repeat;
+    float: left;
+    margin-left: 1200px;
+    
+} */
+
+#main-image {
+    background: url('../images/crystal-rock-lasvit-pendant-lamp.jpg') no-repeat;
+    float: right;
+    position: absolute;
+    top: 0;
+    right: -40%;
+    height: 8000px;
+    width: 100%;
+    
+}
