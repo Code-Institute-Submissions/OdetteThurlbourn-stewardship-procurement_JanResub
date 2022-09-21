@@ -1,45 +1,76 @@
-@import url('https://fonts.googleapis.com/css2?family=Bitter:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Nanum+Myeongjo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 
-body {
-    font-family: 'Bitter', serif;
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 
-/* main image */
+body {
+    font-family: 'Nanum Myeongjo', sans-serif;
+    font-weight: 300;
+    color: #1a3459;
+}
 
-/* #main-image {
-    height: 80000px;
-    width: 100%;
-    background: url('../images/crystal-rock-lasvit-pendant-lamp.jpg') no-repeat;
-    float: left;
-    margin-left: 1200px;
-    
-} */
+/* headings and logo */
 
-#homepage-image {
+h1  {
+    font-family: 'Nanum Myeongjo', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #1a3459;
+    text-decoration: none;
+    font-size: 90px;
+    font-weight: lighter;
+}
+
+h3 {
+    font-family: Abel, sans-serif;
+    text-transform: capitalize;
+    letter-spacing: normal;
+    color: #1a3459;
+    position: relative;
+    right: -450px;
+    top: -70px;
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+h3::before {
+    display: inline-block;
+    content: "";
+    border-top: .2rem solid #e41c27;
+    width: 4rem;
+    margin:  1.5rem;
+    transform: translate(-1rem);
+}
+
+
+
+
+/* homepage-image */
+
+
+/* #homepage-image {
     background: url('../images/crystal-rock-lasvit-pendant-lamp.jpg') no-repeat;
     float: right;
     position: absolute;
     top: 0;
-    right: -40%;
+    right: -55%;
     height: 8000px;
-    width: 100%;
+    width: 100%; */
 
 
     /* animates homepage-image on loading page */
     animation-name: homepage-image;
-    animation-duration: 7s;
+    animation-duration: 8s;
     animation-fill-mode: left;
 }
 
 /* creates level of zoom for homepage-image */
 
 @keyframes homepage-image {
-    /* from {
-        transform: scale(1);
-    }
-    to {
-        transform: scale(1.1);
-    } */
         from {right: 0px;}
         to {left: relative;}
 
