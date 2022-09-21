@@ -51,14 +51,14 @@ h3 {
 /* homepage-image */
 
 
-/* #homepage-image {
+#homepage-image {
     background: url('../images/crystal-rock-lasvit-pendant-lamp.jpg') no-repeat;
     float: right;
     position: absolute;
     top: 0;
     right: -55%;
     height: 8000px;
-    width: 100%; */
+    width: 100%;
 
 
     /* animates homepage-image on loading page */
@@ -92,7 +92,7 @@ h3 {
 /* Add a black background color to the top navigation */
 .topnav {
     position: relative;
-    background-color: #333;
+    background-color: #1a3459;
     overflow: hidden;
   }
   
@@ -108,14 +108,13 @@ h3 {
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: #d0bf86;
+    color: #1a3459;
   }
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: #04AA6D;
-    color: white;
+    color: #d0bf86;
   }
   
   /* Centered section inside the top navigation */
@@ -123,8 +122,12 @@ h3 {
     float: none;
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 28%;
     transform: translate(-50%, -50%);
+  }
+
+  .topnav-centered a:hover {
+    color: #1a3459;
   }
   
   /* Right-aligned section inside the top navigation */
