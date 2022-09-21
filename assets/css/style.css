@@ -15,7 +15,7 @@ body {
     
 } */
 
-#main-image {
+#homepage-image {
     background: url('../images/crystal-rock-lasvit-pendant-lamp.jpg') no-repeat;
     float: right;
     position: absolute;
@@ -23,5 +23,24 @@ body {
     right: -40%;
     height: 8000px;
     width: 100%;
-    
+
+
+    /* animates homepage-image on loading page */
+    animation-name: homepage-image;
+    animation-duration: 7s;
+    animation-fill-mode: left;
+}
+
+/* creates level of zoom for homepage-image */
+
+@keyframes homepage-image {
+    /* from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    } */
+        from {right: 0px;}
+        to {left: relative;}
+
 }
