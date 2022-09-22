@@ -10,7 +10,7 @@
 body {
     font-family: 'Nanum Myeongjo', sans-serif;
     font-weight: 300;
-    color: #1a3459;
+    color: rgb(7, 33, 112);
 }
 
 /* headings and logo */
@@ -19,8 +19,8 @@ h1  {
     font-family: 'Nanum Myeongjo', sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #1a3459;
-    text-decoration: none;
+    color: rgb(7, 33, 112);
+    text-decoration: underline rgb(245, 0, 13);
     font-size: 90px;
     font-weight: bold;
     margin-left: 10px;
@@ -30,7 +30,7 @@ h3 {
     font-family: Abel, sans-serif;
     text-transform: capitalize;
     letter-spacing: normal;
-    color: #1a3459;
+    color: rgb(59, 161, 255);
     position: relative;
     right: -380px;
     top: -70px;
@@ -75,74 +75,31 @@ h3 {
 
 }
 
-/* navigation elements */
+/* Style links inside navigation bar */
 
-/* .box {
-    height: 100px;
-    width: 150px;
-    background: #1a3459;
-    display: inline-block;
-}
-
-.container {
-    padding: 20px 0;
-    text-align: inherit;
-} */
-
-/* Add a black background color to the top navigation */
-.topnav {
-    position: relative;
-    background-color: #1a3459;
-    overflow: hidden;
-  }
-  
-  /* Style the links inside the navigation bar */
-  .topnav a {
+  .navbar a {
     float: left;
-    color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
-  }
-  
-  /* Change the color of links on hover */
-  .topnav a:hover {
-    background-color: #d0bf86;
-    color: #1a3459;
-  }
-  
-  /* Add a color to the active/current link */
-  .topnav a.active {
-    color: #d0bf86;
-  }
-  
-  /* Centered section inside the top navigation */
-  .topnav-centered a {
-    float: none;
-    position: absolute;
-    top: 50%;
-    left: 28%;
-    transform: translate(-50%, -50%);
+    font-size: 30px;
   }
 
-  .topnav-centered a:hover {
-    color: #1a3459;
+/* Color change when hovering over links */
+
+  .navbar a:hover {
+    background-color: #e1d28d;
+    color: rgb(7, 33, 112);
   }
-  
-  /* Right-aligned section inside the top navigation */
-  .topnav-right {
-    float: right;
-  }
-  
+
   /* Responsive navigation menu - display links on top of each other instead of next to each other (for mobile devices) */
   @media screen and (max-width: 600px) {
-    .topnav a, .topnav-right {
+    .navbar a {
       float: none;
       display: block;
     }
   
-    .topnav-centered a {
+    .navbar a {
       position: relative;
       top: 0;
       left: 0;
