@@ -175,6 +175,7 @@ img {
   width: 500px;
 }
 
+/* Contact page */
 
 .contact-form {
   background: #ded1ac; 
@@ -187,3 +188,12 @@ label, input, textarea {
   width: 100%
 
 }
+
+#contactpage-image {
+  background: url('../images/yacht_sell_with_ypi-resized.jpg') no-repeat;
+  float: right;
+  position: absolute;
+  top: 0;
+  right: -65%;
+  height: 900px;
+  width: 100%;
