@@ -153,8 +153,11 @@ h3 {
   }
 
 .gallery {
-    display: flex;
-    padding: 2px;
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0;
+    padding: 0px;
     transition: .3s;
 }
 
@@ -162,4 +165,25 @@ h3 {
   transform: scale(1.1);
 }
 
-  
+.gallery > img {
+  max-width: 100%;
+  height: auto;
+}
+
+img {
+  border-radius: 4px;
+  width: 500px;
+}
+
+
+.contact-form {
+  background: #ded1ac; 
+  padding: 50px 100px
+  border-top: 10px solid form-border
+}
+
+label, input, textarea {
+  display: block
+  width: 100%
+
+}
