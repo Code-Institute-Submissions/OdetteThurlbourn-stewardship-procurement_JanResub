@@ -16,6 +16,7 @@ body {
   background-image: url('../images/821-yacht-motor-yacht-go-main-deck-portside-jpg-1600x1080.jpg');
   background-position: center;
   background-repeat: no-repeat;
+  background-size: cover;
   overflow: hidden;
 }
 
