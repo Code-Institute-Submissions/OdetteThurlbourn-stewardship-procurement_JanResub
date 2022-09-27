@@ -1,11 +1,9 @@
-
-
-
+@import url('https://fonts.googleapis.com/css2?family=Prata&family=Raleway&family=Roboto+Mono:wght@200&display=swap');
 
 
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 /* Background-image */
@@ -27,6 +25,7 @@ body {
   background-color: #27160d;
 }
 .topnav a {
+  font-family: Raleway, sans-serif;
   float: left;
   display: block;
   color: #f2f2f2;
@@ -36,12 +35,12 @@ body {
   font-size: 1rem;
 }
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #e6d7c3;
   color: #27160d;
 }
 .topnav a.active {
-  background-color: #3c4444;
-  color: white;
+  background-color: #5f3d23;
+  color: #e6d7c3;
 }
 .topnav .icon {
   display: none;
@@ -55,6 +54,44 @@ ul li {
   padding: 1rem 3rem;
 }
 
+/* Heading and paragraph emelents */
+
+
+h2 {
+  font-family: Prata, sans-serif;
+  text-transform: uppercase;
+  color: #e6d7c3;
+  text-align: center;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  font-size: large;
+  color: black;
+  padding-left: 1rem;
+  text-align: justify;
+}
+
+.text-box {
+  float: left;
+  width: 50%;
+  padding: 3.125rem;
+  height: 500px;
+  margin-top: 6rem;
+  background-color: #3c4444;
+  opacity: 0.9;
+}
+
+#rec {
+  font-family: 'Roboto Mono';
+  font-size: 80%;
+  text-indent: 4em;
+  text-align: right;
+}
+
+
+
 /* Footer */
 
 footer {
@@ -63,15 +100,13 @@ footer {
   bottom: 0;
   width: 100%;
 }
-.inners {
-  padding-left: 1rem;
-}
+
 img {
   max-width: 30%;
 }
 .social-footer {
   padding: 1rem;
-  background: #333;
+  background: #27160d;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
@@ -133,7 +168,15 @@ input[type=submit]:hover {
 }
 
 
-/* Media queries */
+/* Gallery Page */
+
+#gallery {
+  columns: 2;
+  column-gap: 1rem;
+  
+
+
+/* Media query - Home Page */
 
 @media screen and (max-width: 600px) {
   img {
@@ -165,4 +208,18 @@ input[type=submit]:hover {
   #container {
     font-size: .6rem;
   }
+}
+
+/* Media query - Gallery */
+
+@media (max-width: 600px) {
+    columns: 1;
+  }
+
+@media (max-width: 425px) {
+    columns: 1;
+  }
+
+@media (max-width: 310px) {
+  columns: 1;
 }
