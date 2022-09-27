@@ -1,87 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="Procurement and project based interior design for yachts and residences">
     <meta name="keywords" content="stewardship purchasing, yachts, luxury, procurement, private home">
-
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Stewardship Procurement</title>
-
 </head>
-
 <body>
     <header>
-        <a>
-            <div class="logo">
-                <img src="assets/images/Stewardship Graphic.jpg">
-                <h1 id="heading-01">Stewardship</h1>
-                <h3 id="heading-02">Procurement</h3>
-            </div>
+      <div class="topnav" id="myTopnav">
+        <a href="index.html" class="active">Stewardship Procurement</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="contact.html">Contact</a>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+          <i class="fa fa-bars"></i>
         </a>
-        <nav>
-            <ul class="navbar">
-                <li>
-                    <a href="index.html" class="active">Home</a>
-                </li>
-                <li>
-                    <a href="gallery.html">Gallery</a>
-                </li>
-                <li>
-                    <a href="contact.html">Contact</a>
-                </li>
-            </ul>
-            </div>
-        </nav>
-
+      </div>
     </header>
-    <section>
-        <div id="homepage-image"></div>
-    </section>
-    <section id="paragraph">
-        <div id="left-about"></div>
-        <div class="left-about-heading">
-            <h2>About Us</h2>
-            <p>
-                We work together with your
-                designer, or on board team, to source
-                bespoke pieces directly from artisans and
-                manufacturers. Multiple quotes obtained,
-                wherever possible, including shipping
-                and tax considerations to ensure the best
-                possible value for your project.
-                With capacity to undertake large scale
-                projects & the flexibility to source individual pieces
-                to your bespoke requirements.
-                Each refit or interior refresh is
-                unique and we treat each project as such.
-            </p>
-        </div>
-        </div>
-    </section>
-    <div>
-        <p>
-            <footer class="footer">
-                <ul>
-                    <li>
-                        <a href="http://pinterest.com" target="_blank" rel="noopener"
-                            aria-label="Visit us on Pinterest (opens in a new page)"><i
-                                class="fa-brands fa-square-pinterest"></i></a>
-                    </li>
-                    <li>
-                        <a href="http://instagram.com" target="_blank" rel="noopener"
-                            aria-label="Visit us on Instagram (opens in a new page)"><i
-                                class="fa-brands fa-square-instagram"></i></a>
-                    </li>
-                </ul>
-            </footer>
-        </p>
+    <div class="inners">
+      <h2>Welcome to Stewardship Procurement</h2>
+      <p>We work together with your
+        designer, or on board team, to source
+        bespoke pieces directly from artisans and
+        manufacturers. Multiple quotes obtained,
+        wherever possible, including shipping
+        and tax considerations to ensure the best
+        possible value for your project.
+        With capacity to undertake large scale
+        projects & the flexibility to source individual pieces
+        to your bespoke requirements.
+        Each refit or interior refresh is
+        unique and we treat each project as such.</p>
     </div>
+    <footer class="social-footer">
+      <div class="social-footer-icons">
+        <ul class="menu simple">
+          <li><a href="https://www.instagram.com/?hl=en"><i class="fa fa-instagram" aria-hidden="true" target="_blank"></i></a></li>
+          <li><a href="https://www.pinterest.com/"><i class="fa fa-pinterest-p" aria-hidden="true" target="_blank"></i></a></li>
+        </ul>
+      </div>
+    </footer>
     <!--font awesome script-->
     <script src="https://kit.fontawesome.com/f3ea703348.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+    <script>
+      function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+          x.className += " responsive";
+        } else {
+          x.className = "topnav";
+        }
+      }
+      </script>
 </body>
-
 </html>

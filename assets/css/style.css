@@ -1,195 +1,129 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100&display=swap');
-
-{
-    margin: 0;
-    padding: 0;
-    border: 0;
-}
-
 body {
-    font-family: 'Work Sans', sans-serif;
-    font-weight: 300;
-    color: rgb(7, 33, 112);
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
 }
-
-
-/* navigation styling */
-
-
-
-/* Color change when hovering over links */
-
-.navbar a:hover {
-  background-color: #ded1ac;
-  color: rgb(7, 33, 112);
+.topnav {
+  overflow: hidden;
+  background-color: #333;
 }
-
-.active {
-  background-color: #ded1ac;
-}
-/* headings and logo */
-
-h1  {
-    font-family: 'Noto Serif JP', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    color: rgb(7, 33, 112);
-    text-decoration: underline #F5000d;
-    font-size: 90px;
-    font-weight: bold;
-    margin-left: 10px;
-}
-
-h3 {
-    font-family: 'Work Sans', sans-serif;
-    text-transform: capitalize;
-    letter-spacing: normal;
-    color: rgb(59, 161, 255);
-    position: relative;
-    right: -330px;
-    top: -70px;
-    font-size: 65px;
-    font-weight: lighter;
-}
-
-h2 {
-  font-family: 'Work Sans', sans-serif;
-  text-transform: capitalize;
-  letter-spacing: normal;
-  color: rgb(7, 33, 112);
-  font-weight: bold;
-}
-
-.logo img {
+.topnav a {
   float: left;
-  width: 150px;
-  height: 250px;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 1rem;
+  text-decoration: none;
+  font-size: 1rem;
 }
-
-.logo h1, h3 {
-  position: relative;
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
 }
-/* background gradient to heading element*/
-
-h3 {
-  background-color: #ded1ac;
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
 }
-
-/* homepage-image */
-
-#homepage-image {
-    background: url('../images/crystal-rock-lasvit-pendant-lamp.jpg') no-repeat;
-    float: right;
-    position: absolute;
-    top: 0;
-    right: -65%;
-    height: 900px;
-    width: 100%;
-
-
-    /* animates homepage-image on loading page */
-    animation-name: homepage-image;
-    animation-duration: 8s;
-    animation-fill-mode: left;
+.topnav .icon {
+  display: none;
 }
-
-/* creates level of slide for homepage-image */
-
-@keyframes homepage-image {
-        from {right: 0px;}
-        to {left: relative;}
+ul {
+  list-style: none;
+  display: inline-flex;
+  margin: 0 auto;
 }
-
-/* Main page paragraph */
-
-#paragraph {
-  height: 800px;
+ul li {
+  padding: 1rem 3rem;
 }
-
-#left-about {
-  padding-top: 50px;
-  width: -33%;
-  float: left;
-}
-
-.left-about-heading {
-  width: 60%;
-  float: left;
-  line-height: 20px;
-  clear: both;
-  margin-bottom: 50px;
-}
-  
-/* Color change when hovering over links */
-
-  .navbar a:hover {
-    background-color: #ded1ac;
-    color: rgb(7, 33, 112);
-  }
-
-  .active {
-    background-color: #ded1ac;
-  }
-  
-  .footer {
-    position: sticky;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: #F5000d;
-    color: white;
-    text-align: center;
-  }
-
-.gallery {
-    clear: both;
-    line-height: 0;
-    column-count: 3;
-    column-gap: 0;
-    padding: 0px;
-    transition: .3s;
-}
-
-.gallery-column {
-    display: flex;
-		flex-direction: column;
-		width: 25%;
-
-}
-
-img:hover {
-  transform: scale(1.1);
-}
-
-.gallery > img {
-  max-width: 100%;
-  height: auto;
-}
-
-img {
-  border-radius: 4px;
-  width: 500px;
-}
-
-/* Contact page */
-
-.contact-form {
-  background: #ded1ac; 
-  padding: 50px 100px
-  border-top: 10px solid form-border
-}
-
-label, input, textarea {
-  display: block
-  width: 100%
-
-}
-
-.footer-image {
-  background: url('../images/yacht_sell_with_ypi-resized.jpg') no-repeat;
-  position: sticky;
+footer {
+  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
+}
+.inners {
+  padding-left: 1rem;
+}
+img {
+  max-width: 30%;
+}
+.social-footer {
+  padding: 1rem;
+  background: #333;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.social-footer-icons {
+  margin: 0 auto;
+}
+.social-footer .social-footer-icons li:last-of-type {
+  margin-right: 0;
+}
+.social-footer .social-footer-icons .fa {
+  font-size: 1.3rem;
+  color: #fefefe;
+}
+.social-footer .social-footer-icons .fa:hover {
+  color: yellow;
+  transition: color 0.3s ease-in;
+}
+
+/* contact us page */
+
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+  img {
+    max-width: 48%;
+  }
+}
+@media screen and (max-width: 425px) {
+  .topnav a {
+    font-size: .7rem;
+  }
+}
+@media screen and (max-width: 310px) {
+  .topnav a {
+    font-size: .6rem;
+  }
 }

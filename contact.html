@@ -7,88 +7,70 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="Procurement and project based interior design for yachts and residences">
     <meta name="keywords" content="stewardship purchasing, yachts, luxury, procurement, private home">
-
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Stewardship Procurement</title>
-
 </head>
 
 <body>
     <header>
-
-        <a>
-            <div class="logo">
-                <img src="assets/images/Stewardship Graphic.jpg">
-                <h1 id="heading-01">Stewardship</h1>
-                <h3 id="heading-02">Procurement</h3>
-            </div>
-        </a>
-        <nav>
-            <ul class="navbar">
-                <li>
-                    <a href="index.html">Home</a>
-                </li>
-                <li>
-                    <a href="gallery.html">Gallery</a>
-                </li>
-                <li>
-                    <a href="contact.html" class="active">Contact</a>
-                </li>
-            </ul>
-            </div>
-        </nav>
+        <div class="topnav" id="myTopnav">
+            <a href="index.html">Stewardship Procurement</a>
+            <a href="gallery.html">Gallery</a>
+            <a href="contact.html" class="active">Contact</a>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                <i class="fa fa-bars"></i>
+            </a>
+        </div>
     </header>
+    <div class="inners">
+        <h2>Contact Us</h2>
+        <div class="container">
+            <form action="/action_page.php">
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="firstname" placeholder="Your name..">
 
-   
+                <label for="lname">Last Name</label>
+                <input type="text" id="lname" name="lastname" placeholder="Your last name..">
 
-    <section id="paragraph">
-        <div id="left-about"></div>
-        <div class="left-about-heading">
+                <label for="country">Country</label>
+                <select id="country" name="country">
+                    <option value="australia">Australia</option>
+                    <option value="canada">Canada</option>
+                    <option value="usa">USA</option>
+                </select>
 
-            <section class="contact-form">
-                <h2>Contact Us</h2>
-                <label for="customerName">Name</label>
-                <input type="text" id="customerName" name="customerName" required="*">
+                <label for="subject">Subject</label>
+                <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
 
-                <label for="customerSurname">Surname</label>
-                <input type="text" id="customerSurname" name="customerSurname" required="*">
-
-                <label for="customerEmail">Email</label>
-                <input type="email" id="customerEmail" name="customerEmail" required="*">
-
-                <label for="customerPhone">Telephone</label>
-                <input type="text" id="customerPhone" name="customerPhone" required="*">
-
-                <label for="customerMessage">Message</label>
-                <input textarea rows="4" id="customerMessage" name="customerMessage" required="*">
-
-
-
-            </section>
+                <input type="submit" value="Submit">
+            </form>
         </div>
-        </div>
-    </section>
-    <div>
-        <p>
-            
-            <section class="footer-image">
-                <ul>
-                    <li>
-                        <a href="http://pinterest.com" target="_blank" rel="noopener"
-                            aria-label="Visit us on Pinterest (opens in a new page)"><i
-                                class="fa-brands fa-square-pinterest"></i></a>
-                    </li>
-                    <li>
-                        <a href="http://instagram.com" target="_blank" rel="noopener"
-                            aria-label="Visit us on Instagram (opens in a new page)"><i
-                                class="fa-brands fa-square-instagram"></i></a>
-                    </li>
-                </ul>
-            </section>
-        </p>
+
     </div>
+    <footer class="social-footer">
+        <div class="social-footer-icons">
+            <ul class="menu simple">
+                <li><a href="https://www.instagram.com/?hl=en"><i class="fa fa-instagram" aria-hidden="true"
+                            target="_blank"></i></a></li>
+                <li><a href="https://www.pinterest.com/"><i class="fa fa-pinterest-p" aria-hidden="true"
+                            target="_blank"></i></a></li>
+            </ul>
+        </div>
+    </footer>
     <!--font awesome script-->
     <script src="https://kit.fontawesome.com/f3ea703348.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.1.js"
+        integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+    <script>
+        function myFunction() {
+            var x = document.getElementById("myTopnav");
+            if (x.className === "topnav") {
+                x.className += " responsive";
+            } else {
+                x.className = "topnav";
+            }
+        }
+    </script>
 </body>
 
 </html>
