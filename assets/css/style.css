@@ -7,6 +7,20 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Background-image */
+
+#hero-image {
+  width: 100%;
+  height: 65rem;
+  background-image: url('../images/821-yacht-motor-yacht-go-main-deck-portside-jpg-1600x1080.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+/* Navigation*/
+
 .topnav {
   overflow: hidden;
   background-color: #27160d;
@@ -39,6 +53,9 @@ ul {
 ul li {
   padding: 1rem 3rem;
 }
+
+/* Footer */
+
 footer {
   position: fixed;
   left: 0;
@@ -115,7 +132,7 @@ input[type=submit]:hover {
 }
 
 
-
+/* Media queries */
 
 @media screen and (max-width: 600px) {
   img {
@@ -129,6 +146,22 @@ input[type=submit]:hover {
 }
 @media screen and (max-width: 310px) {
   .topnav a {
+    font-size: .6rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #container {
+    max-width: 48%;
+  }
+}
+@media screen and (max-width: 425px) {
+  #container {
+    font-size: .7rem;
+  }
+}
+@media screen and (max-width: 310px) {
+  #container {
     font-size: .6rem;
   }
 }
