@@ -80,7 +80,7 @@ p {
   height: 500px;
   margin-top: 6rem;
   background-color: #3c4444;
-  opacity: 0.9;
+  opacity: 1;
 }
 
 #rec {
@@ -135,6 +135,7 @@ img {
 /* contact us page */
 
 body {font-family: Prata, sans-serif;}
+
 * {box-sizing: border-box;}
 
 input[type=text], select, textarea {
@@ -146,6 +147,15 @@ input[type=text], select, textarea {
   margin-top: 6px;
   margin-bottom: 16px;
   resize: vertical;
+  
+}
+
+.container {
+  border-radius: 5px;
+  background-image: url('../images/crystal-rock-lasvit-pendant-lamp.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 150px;
 }
 
 input[type=submit] {
@@ -161,17 +171,6 @@ input[type=submit]:hover {
   background-color: #e1b784;
 }
 
-.container {
-  border-radius: 5px;
-  background-image: url('../images/yacht_sell_with_ypi-resized.jpg');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  /* background-color: #f2f2f2; */
-  padding: 150px;
-}
-
-
 /* Gallery Page */
 
 #gallery {
@@ -179,6 +178,10 @@ input[type=submit]:hover {
   line-height: 0;
   column-count: auto;
   column-gap: 0;
+  margin-left: 5rem;
+  margin-bottom: 5rem;
+  overflow: hidden;
+
 
 #photo img {
   width: 100%;
@@ -204,31 +207,56 @@ input[type=submit]:hover {
 }
 
 @media screen and (max-width: 600px) {
-  #container {
+  .text-box {
     max-width: 48%;
+    width: 100%;
+    float: left;
+    padding: 0;
   }
 }
 @media screen and (max-width: 425px) {
-  #container {
+  .text-box {
     font-size: .7rem;
   }
 }
 @media screen and (max-width: 310px) {
-  #container {
+  .text-box {
     font-size: .6rem;
   }
-}
+} 
 
 /* Media query - Gallery */
 
-@media screen and (max-width: 600px) {
+ @media screen and (max-width: 600px) {
+  #gallery 
     columns: 1;
+    float: left;
   }
 
 @media screen and (max-width: 425px) {
+  #gallery 
     columns: 1;
   }
 
 @media screen and (max-width: 310px) {
+  #gallery 
   columns: 1;
+}
+
+/* Media query - Contact Us */
+
+@media screen and (max-width: 600px) {
+  .container {
+    max-width: 48%;
+  }
+}
+@media screen and (max-width: 425px) {
+  .container {
+    font-size: .7rem;
+  }
+}
+@media screen and (max-width: 310px) {
+  .container {
+    font-size: .6rem;
+  }
 }
