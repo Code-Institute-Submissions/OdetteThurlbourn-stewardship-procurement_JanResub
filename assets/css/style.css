@@ -2,8 +2,8 @@
 
 
 body {
-  margin: 0;
   font-family: 'Raleway', sans-serif;
+  margin: 0;
 }
 
 /* Background-image */
@@ -24,27 +24,31 @@ body {
   overflow: hidden;
   background-color: #27160d;
 }
+
 .topnav a {
-  font-family: Raleway, sans-serif;
   float: left;
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 1rem;
+  padding: 14px 16px;
   text-decoration: none;
-  font-size: 1rem;
+  font-size: 17px;
 }
+
 .topnav a:hover {
-  background-color: #e6d7c3;
-  color: #27160d;
+  background-color: #e1b784;
+  color: black;
 }
+
 .topnav a.active {
-  background-color: #5f3d23;
-  color: #e6d7c3;
+  background-color: #e1b784;
+  color: white;
 }
+
 .topnav .icon {
   display: none;
 }
+
 ul {
   list-style: none;
   display: inline-flex;
@@ -59,10 +63,12 @@ ul li {
 
 h2 {
   font-family: Prata, sans-serif;
-  text-transform: uppercase;
+  font-size: 3rem;
+  text-transform: capitalize;
   color: #e6d7c3;
+  margin-top: 3rem;
   text-align: center;
-  background-color: #3c4444;
+  background-color: #27160d;
 }
 
 h3 {
@@ -83,15 +89,6 @@ p {
   text-align: justify;
 }
 
-.text-box {
-  float: left;
-  width: 50%;
-  padding: 3.125rem;
-  height: 500px;
-  margin-top: 6rem;
-  background-color: #3c4444;
-  opacity: 1;
-}
 
 #rec {
   font-family: 'Raleway';
@@ -201,22 +198,39 @@ input[type=submit]:hover {
 
 /* Media query - Home Page */
 
-@media screen and (max-width: 600px) {
-  img {
-    max-width: 48%;
-  }
-}
-@media screen and (max-width: 425px) {
-  .topnav a {
-    font-size: .7rem;
-  }
-}
-@media screen and (max-width: 310px) {
-  .topnav a {
-    font-size: .6rem;
+@media screen and (min-width: 601px) {
+  .text-box {
+    font-size: 80px;
   }
 }
 
+@media screen and (max-width: 600px) {
+  .text-box {
+    font-size: 30px;
+  }
+
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
 @media screen and (max-width: 600px) {
   .text-box {
     max-width: 48%;
