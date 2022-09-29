@@ -105,12 +105,12 @@ input[type=submit]:hover {
 }
 
 #hero-image {
-  
-  background: url('../images/821-yacht-motor-yacht-go-main-deck-portside-jpg-1600x1080.jpg');
-  background-size: cover;
+  background-image: url('../images/821-yacht-motor-yacht-go-main-deck-portside-jpg-1600x1080.jpg');
   background-repeat: no-repeat;
+  background-size: cover;
   background-position: center;
 }
+
 #cover-text {
   width: 300px;
   height: 200px;
@@ -119,6 +119,14 @@ input[type=submit]:hover {
   padding-left: 30px;
 }
 
+
+/* gallery page */
+
+.gallery_column {
+  margin-left: 10px;
+  padding: 20px;
+
+}
 
 /*footer */
 
