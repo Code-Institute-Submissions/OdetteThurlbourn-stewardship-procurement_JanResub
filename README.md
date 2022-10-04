@@ -41,18 +41,19 @@ As this website is only a way for clients to get in touch regarding our services
 - Our main three color-ways were as follows
    - Headings, navigation fonts and home page paragraph background 
   
-  *ece1d3*
- ![Screenshot 2022-10-04 120055](https://user-images.githubusercontent.com/108287233/193802777-a4e51017-6e24-4f5b-a5ea-42fca521b3dd.png)
+  *#ece1d3*
+  ![Screenshot 2022-10-04 120055](https://user-images.githubusercontent.com/108287233/193812911-fe2fe58e-a561-4d24-a95d-52e37d43c3cb.png)
 
    - Navigation bar background, h2 heading background and contact page h3 heading background 
   
-  *27160d*
-![Screenshot 2022-10-04 120002](https://user-images.githubusercontent.com/108287233/193802630-6338633d-ede0-4ccb-81c8-5807745a9b34.png)
+  *#27160d*
+  ![Screenshot 2022-10-04 120002](https://user-images.githubusercontent.com/108287233/193813066-96346903-34f1-4480-935f-746ef8482c81.png)
 
   - Navigation bar background, h2 heading background and contact page h3 heading background 
   
-  *5f3d23*
-![Screenshot 2022-10-04 115702](https://user-images.githubusercontent.com/108287233/193802491-0b7b0253-f9f9-4abb-8f3b-1a8ce82a6149.png)
+  *#5f3d23*
+  ![Screenshot 2022-10-04 115702](https://user-images.githubusercontent.com/108287233/193813173-1caab7ea-3958-4b46-bd16-ff11cbba150b.png)
+
 
 #### Page Navigation
 
@@ -66,7 +67,22 @@ As this website is only a way for clients to get in touch regarding our services
 - As we pride ourselves in sleek and elegant page layouts, this also goes for our social meadia presence, hence hwy we are only visiable on Instagram and Pintrest. 
 We wanted the footer to remain classic with a hint of color when hovered over; for this splash we chose:
 
-#B74803
+*#B74803*
+![footer-color-way](https://user-images.githubusercontent.com/108287233/193812777-8fae6714-8f02-46bf-b7d5-95849843a1ed.png)
+
+- This paired nicely with the main page background:
+
+ *#27160d*
+  ![Screenshot 2022-10-04 120002](https://user-images.githubusercontent.com/108287233/193813066-96346903-34f1-4480-935f-746ef8482c81.png)
+
+- And using the same font-color as seen throughout the layout:
+
+ *#ece1d3*
+ ![Screenshot 2022-10-04 120055](https://user-images.githubusercontent.com/108287233/193812911-fe2fe58e-a561-4d24-a95d-52e37d43c3cb.png)
+
+
+
+
 
 
 
