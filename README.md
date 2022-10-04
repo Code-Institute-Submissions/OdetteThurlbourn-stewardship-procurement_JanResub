@@ -29,7 +29,8 @@ As this website is only a way for clients to get in touch regarding our services
 
 - The choice of color combinations were choosen from an image that was placed through a simple 'Pick Color From Image' renedering website namly, https://imagecolorpicker.com/en
 
-![color-picker](https://user-images.githubusercontent.com/108287233/193792232-debbe407-91bc-4aca-8a72-bb58e28eb567.png)
+
+![Screenshot 2022-10-04 121720](https://user-images.githubusercontent.com/108287233/193805472-7d6ba05b-0c82-4fea-a071-6a8f8102b3ea.png)
 
 
 ###### Inspiration image
@@ -40,22 +41,26 @@ As this website is only a way for clients to get in touch regarding our services
 - Our main three color-ways were as follows
    - Headings, navigation fonts and home page paragraph background 
   
-  ece1d3
+  *ece1d3*
  ![Screenshot 2022-10-04 120055](https://user-images.githubusercontent.com/108287233/193802777-a4e51017-6e24-4f5b-a5ea-42fca521b3dd.png)
 
    - Navigation bar background, h2 heading background and contact page h3 heading background 
   
-  27160d
+  *27160d*
 ![Screenshot 2022-10-04 120002](https://user-images.githubusercontent.com/108287233/193802630-6338633d-ede0-4ccb-81c8-5807745a9b34.png)
 
   - Navigation bar background, h2 heading background and contact page h3 heading background 
   
-  5f3d23
+  *5f3d23*
 ![Screenshot 2022-10-04 115702](https://user-images.githubusercontent.com/108287233/193802491-0b7b0253-f9f9-4abb-8f3b-1a8ce82a6149.png)
 
 #### Page Navigation
 
 - Our navigation layout remains simple and user friendly, the user can visually assertain which page is active by the use of a different colour-way of tat of the main background.  This is also apparent when hovering over the navigation bar icons, the color-way chamges again, however only for the duration of the action of hovering taking place. 
+
+![nav-bar](https://user-images.githubusercontent.com/108287233/193804563-6a4ca5bc-a2e7-4b74-9256-db9272bc7cda.png)
+
+
 
 
 
