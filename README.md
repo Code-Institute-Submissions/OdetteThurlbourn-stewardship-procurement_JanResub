@@ -61,6 +61,12 @@ As this website is only a way for clients to get in touch regarding our services
 ![nav-bar](https://user-images.githubusercontent.com/108287233/193804563-6a4ca5bc-a2e7-4b74-9256-db9272bc7cda.png)
 
 
+#### Footer
+
+- As we pride ourselves in sleek and elegant page layouts, this also goes for our social meadia presence, hence hwy we are only visiable on Instagram and Pintrest. 
+We wanted the footer to remain classic with a hint of color when hovered over; for this splash we chose:
+
+#B74803
 
 
 
