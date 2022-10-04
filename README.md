@@ -19,15 +19,20 @@ As this website is only a way for clients to get in touch regarding our services
 #### Background image
 
  - The website hopes to make an impact with a asthestically pleasing first visial of a post side view into a superyacht. Setting the tone for our that we deal with high net worth individuals (HNWI) and we are a comapnt to offer a luxury service.
+
+
+![821-yacht-motor-yacht-go-main-deck-portside-jpg-1600x1080](https://user-images.githubusercontent.com/108287233/193803764-f8057dfb-fa4b-4c9f-b9bb-b696fe1310b8.jpg)
+
+
  
-#### Website Color Combination
+#### Color Combination
 
 - The choice of color combinations were choosen from an image that was placed through a simple 'Pick Color From Image' renedering website namly, https://imagecolorpicker.com/en
 
 ![color-picker](https://user-images.githubusercontent.com/108287233/193792232-debbe407-91bc-4aca-8a72-bb58e28eb567.png)
 
 
-#### Color Palette & inspiration image
+###### Inspiration image
 ![color-palette](https://user-images.githubusercontent.com/108287233/193802959-13e68bd3-2d72-4ebf-8c20-e528fa0f69ce.png)
 ![BronzeMeteorRootIcon](https://user-images.githubusercontent.com/108287233/193802872-2199bfa4-c5eb-49f0-bc47-1cd243ca5169.jpg)
 
@@ -47,6 +52,11 @@ As this website is only a way for clients to get in touch regarding our services
   
   5f3d23
 ![Screenshot 2022-10-04 115702](https://user-images.githubusercontent.com/108287233/193802491-0b7b0253-f9f9-4abb-8f3b-1a8ce82a6149.png)
+
+#### Page Navigation
+
+- Our navigation layout remains simple and user friendly, the user can visually assertain which page is active by the use of a different colour-way of tat of the main background.  This is also apparent when hovering over the navigation bar icons, the color-way chamges again, however only for the duration of the action of hovering taking place. 
+
 
 
 
