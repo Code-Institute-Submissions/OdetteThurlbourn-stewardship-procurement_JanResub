@@ -34,7 +34,7 @@ As this website is only a way for clients to get in touch regarding our services
 
 
 ###### Inspiration image
-![color-palette](https://user-images.githubusercontent.com/108287233/193802959-13e68bd3-2d72-4ebf-8c20-e528fa0f69ce.png)
+
 ![BronzeMeteorRootIcon](https://user-images.githubusercontent.com/108287233/193802872-2199bfa4-c5eb-49f0-bc47-1cd243ca5169.jpg)
 
 
@@ -53,6 +53,12 @@ As this website is only a way for clients to get in touch regarding our services
   
   *#5f3d23*
   ![Screenshot 2022-10-04 115702](https://user-images.githubusercontent.com/108287233/193813173-1caab7ea-3958-4b46-bd16-ff11cbba150b.png)
+  
+  - Extra pop of color for navigation bar and homepage paragraph
+  
+  *#B74803*
+![footer-color-way](https://user-images.githubusercontent.com/108287233/193812777-8fae6714-8f02-46bf-b7d5-95849843a1ed.png)
+
 
 
 #### Page Navigation
@@ -79,9 +85,23 @@ We wanted the footer to remain classic with a hint of color when hovered over; f
 
  *#ece1d3*
  ![Screenshot 2022-10-04 120055](https://user-images.githubusercontent.com/108287233/193812911-fe2fe58e-a561-4d24-a95d-52e37d43c3cb.png)
+ 
+ 
+ #### Gallery Page
+ 
+ - As our business does not sell products per say, we like to showcase a few pieces and projects for the lient to get an idea or a rough guide of what beautiful peiecs are available to them. Have had clients who have based thier whole project on one inspirational image alone.  Much like we have done with t he color combination of this website. 
 
+![gallery](https://user-images.githubusercontent.com/108287233/193814627-0ab23854-a576-4e58-a66f-65cab47d4163.png)
 
+#### Contact Page
 
+- As we pride ourselves on privacy and exclusivity, we aim to make out clients feel special.
+Our contact page is simple and to the point, we do all the leg work and only need the client to reach out initally before we set up a client profile and dedicate a client liasion to look after said client thought the project process. 
+
+   - As out client base is international, we only require a name and an email address for inital contact.
+   - All relevant information will be taken on the first meeting. 
+
+![contact-page](https://user-images.githubusercontent.com/108287233/193815911-827b9879-586f-44ec-b9c5-53feedba4abb.png)
 
 
 
