@@ -27,7 +27,7 @@ As this website is only a way for clients to get in touch regarding our services
 ![color-picker](https://user-images.githubusercontent.com/108287233/193792232-debbe407-91bc-4aca-8a72-bb58e28eb567.png)
 
 
-#### Color Palette:
+#### Color Palette & inspiration image
 ![main-image-color-palette](https://user-images.githubusercontent.com/108287233/193796038-ad4d44db-712a-454e-b8c1-437a1479de86.png)
 
 - Our main three color-ways were as follows
@@ -35,7 +35,11 @@ As this website is only a way for clients to get in touch regarding our services
   
   ece1d3
  ![heading-colorway](https://user-images.githubusercontent.com/108287233/193797257-6dfbbf63-27a4-47d2-836e-3980a461dcb8.png)
+ 
+   - Navigation bar background, h2 heading background and contact page h3 heading background 
   
+  27160d
+![background-image](https://user-images.githubusercontent.com/108287233/193798446-2ec3d88a-67b8-4c37-8ad1-50c11adacb6f.png)
 
    
 
