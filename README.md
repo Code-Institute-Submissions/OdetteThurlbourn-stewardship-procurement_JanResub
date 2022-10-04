@@ -31,15 +31,21 @@ As this website is only a way for clients to get in touch regarding our services
 ![main-image-color-palette](https://user-images.githubusercontent.com/108287233/193796038-ad4d44db-712a-454e-b8c1-437a1479de86.png)
 
 - Our main three color-ways were as follows
-   - Headings, navigation fonts and main page background 
+   - Headings, navigation fonts and home page paragraph background 
   
   ece1d3
- ![heading-colorway](https://user-images.githubusercontent.com/108287233/193797257-6dfbbf63-27a4-47d2-836e-3980a461dcb8.png)
- 
+ ![Screenshot 2022-10-04 120055](https://user-images.githubusercontent.com/108287233/193802777-a4e51017-6e24-4f5b-a5ea-42fca521b3dd.png)
+
    - Navigation bar background, h2 heading background and contact page h3 heading background 
   
   27160d
-![background-image](https://user-images.githubusercontent.com/108287233/193798446-2ec3d88a-67b8-4c37-8ad1-50c11adacb6f.png)
+![Screenshot 2022-10-04 120002](https://user-images.githubusercontent.com/108287233/193802630-6338633d-ede0-4ccb-81c8-5807745a9b34.png)
 
-   
+  - Navigation bar background, h2 heading background and contact page h3 heading background 
+  
+  5f3d23
+![Screenshot 2022-10-04 115702](https://user-images.githubusercontent.com/108287233/193802491-0b7b0253-f9f9-4abb-8f3b-1a8ce82a6149.png)
 
+
+
+ 
