@@ -28,7 +28,9 @@ As this website is only a way for clients to get in touch regarding our services
 
 
 #### Color Palette & inspiration image
-![main-image-color-palette](https://user-images.githubusercontent.com/108287233/193796038-ad4d44db-712a-454e-b8c1-437a1479de86.png)
+![BronzeMeteorRootIcon](https://user-images.githubusercontent.com/108287233/193802872-2199bfa4-c5eb-49f0-bc47-1cd243ca5169.jpg)
+
+![color-palette](https://user-images.githubusercontent.com/108287233/193802959-13e68bd3-2d72-4ebf-8c20-e528fa0f69ce.png)
 
 - Our main three color-ways were as follows
    - Headings, navigation fonts and home page paragraph background 
