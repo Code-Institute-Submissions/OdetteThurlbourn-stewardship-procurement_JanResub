@@ -212,7 +212,12 @@ ________________________
 ## Media
 ______________
 
-- Heo Image from P
+- Hero Image from [Pexels](https://www.pexels.com/)
+- Gallery images from previous employment - part of client presentations.
+
+
+_________________________________
+Thank you for taking the time to read the READMe of [Stewardship Procurement](https://odettethurlbourn.github.io/stewardship-procurement/). 
 
 
 
