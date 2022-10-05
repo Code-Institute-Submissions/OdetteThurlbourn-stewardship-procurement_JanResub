@@ -181,14 +181,17 @@ footer {
   .topnav a {
     font-size: .7rem;
   }
+
 }
 @media screen and (max-width: 365px) {
   .topnav a {
     font-size: .6rem;
   }
+  
 }
 @media screen and (max-width: 320px) {
   .topnav a {
     font-size: .45rem;
   }
+  
 }
