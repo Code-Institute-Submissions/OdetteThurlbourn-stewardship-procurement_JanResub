@@ -88,7 +88,8 @@ We wanted the footer to remain classic with a hint of color when hovered over; f
  
  - As our business does not sell products per say, we like to showcase a few pieces and projects for the lient to get an idea or a rough guide of what beautiful peiecs are available to them. Have had clients who have based thier whole project on one inspirational image alone.  Much like we have done with t he color combination of this website. 
 
-![gallery](https://user-images.githubusercontent.com/108287233/193814627-0ab23854-a576-4e58-a66f-65cab47d4163.png)
+![GalleryReadMe](https://user-images.githubusercontent.com/108287233/194072796-b3d902b1-e874-4a43-9a57-20ebd59b5ce8.png)
+
 
 #### Contact Page
 
@@ -98,7 +99,7 @@ Our contact page is simple and to the point, we do all the leg work and only nee
    - As out client base is international, we only require a name and an email address for inital contact.
    - All relevant information will be taken on the first meeting. 
 
-![contact-page](https://user-images.githubusercontent.com/108287233/193815911-827b9879-586f-44ec-b9c5-53feedba4abb.png)
+![ContactUsReadME](https://user-images.githubusercontent.com/108287233/194073107-4e8c67e2-5bc9-4e2d-9fb3-f8d62fbc3c2c.png)
 
 
 Testing
