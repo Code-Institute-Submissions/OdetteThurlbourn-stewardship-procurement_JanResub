@@ -106,14 +106,22 @@ Our contact page is simple and to the point, we do all the leg work and only nee
 ## Testing
 ________________________________________
 
-#### Webpage Platforms
+### Webpage Platforms
 
-The website testing was carried out on the following platforms 
+The website testing was carried out on the following platforms: 
 1. Google Chrome
 2. FireFox
 3. Safari
 
-#### Outcome
-The website preformed as expected on the three diffrent platforms.
+##### Outcome - The website preformed as expected on the three diffrent platforms.
 
+### Responsivness
+
+The website tested as expected using an arrary of dimentions namly:
+1. Iphone 12 Pro (390px x 844px)
+2. Ipad Air (820px x 1180px)
+3. Galaxy Fold (280px x 653px)
+
+##### Outcome - The website preformed as expected, howver, found that on the 280px x 653px, the gallery was slightly distored.
+##### Debug - Look into media quesy regarding gallery on smaller screen responses.
 
