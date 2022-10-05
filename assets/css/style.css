@@ -7,14 +7,14 @@ body {
 /* heading, paragraph, logo */
 h2 {
   font-family: Prata, sans-serif;
-  color: #F7F1F0;
+  color: #ece1d3;
   padding: 30px;
   text-align: center;
   background: #27160d;
   font-size: 30px;
 }
 p {
-  color: #27160d;
+  color: #ece1d3;
   text-align: center;
   padding-left: 3px;
 }
@@ -27,7 +27,7 @@ p {
 
 h3 {
   font-family: Prata, sans-serif;
-  color: #F7F1F0;
+  color: #ece1d3;
   padding: 30px;
   text-align: center;
   background: #27160d;
@@ -48,11 +48,11 @@ h3 {
   font-size: 1rem;
 }
 .topnav a:hover {
-  background-color: #ece1d3;
+  background-color: #B74803;
   color: #27160d;
 }
 .topnav a.active {
-  background-color: #ece1d3;
+  background-color: #B74803;
   color: #27160d;
 }
 .topnav .icon {
@@ -88,11 +88,11 @@ input[type=submit] {
   cursor: pointer;
 }
 input[type=submit]:hover {
-  background-color: #76675c;
+  background-color: #B74803;
 }
 .container {
   border-radius: 5px;
-  background-color: #e6d4bb;
+  background-color: #27160d;
   padding: 20px;
 }
 /* hero-outer / hero-image / h2 - paragraph */
@@ -103,7 +103,7 @@ input[type=submit]:hover {
   background-position: center;
 }
 .intro-text {
-  background-color: #ece1d3;
+  background-color: #27160d;
   padding: 1rem 2rem;
 }
 .hero-img {
