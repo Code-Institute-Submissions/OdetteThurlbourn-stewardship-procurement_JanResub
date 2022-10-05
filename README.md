@@ -172,6 +172,13 @@ ____________________
 
 ![LighthouseScore](https://user-images.githubusercontent.com/108287233/194088952-32f66d1d-1bce-4507-b748-8ffcfbc1ce7d.png)
 
+## Deployment
+_______________
+
+- Deployment via GitHub
+1. Navigate to the settings tab within the GitHub repsoitory.
+2. Select 'source section' and from the drop down menu select 'master branch'.
+3. A link will be provided after refreshing page to the web page.
 
 
 
