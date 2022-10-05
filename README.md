@@ -160,8 +160,17 @@ ____________________
 
 ![cssValidator](https://user-images.githubusercontent.com/108287233/194088170-9b7856ed-dd2f-444a-b18a-9b0a35c53068.png)
 
+### Accessibility
 
+- Preformance of the site is not strong due to:
+1. Image sizes
+2. Images not compressed enough
+3. Hero-Image does not have explicit width and height property - 
+    .hero-img {
+    width: 100%;
+    max-height: 70vh;
 
+![LighthouseScore](https://user-images.githubusercontent.com/108287233/194088952-32f66d1d-1bce-4507-b748-8ffcfbc1ce7d.png)
 
 
 
