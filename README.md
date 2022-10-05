@@ -201,8 +201,16 @@ _______________
 ![Page](https://user-images.githubusercontent.com/108287233/194092438-c127bf31-29f5-43f4-b94f-1fd9e67c3587.png)
 
 
+## Credits 
+________________________
+
+- I attribute W3School for help with background images, the contact form layout and navigation bar.
+- My Mentor for advising on code corrections and helping with my footer and background image issues
+-  The 'Love Running' code helped shape my project.
 
 
+## Media
+______________
 
 
 
