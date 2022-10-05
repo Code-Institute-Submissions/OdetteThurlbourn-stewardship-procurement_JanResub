@@ -62,7 +62,7 @@ As this website is only a way for clients to get in touch regarding our services
 
 - Our navigation layout remains simple and user friendly, the user can visually assertain which page is active by the use of a different colour-way of tat of the main background.  This is also apparent when hovering over the navigation bar icons, the color-way chamges again, however only for the duration of the action of hovering taking place. 
 
-![nav-bar](https://user-images.githubusercontent.com/108287233/193804563-6a4ca5bc-a2e7-4b74-9256-db9272bc7cda.png)
+![Nav](https://user-images.githubusercontent.com/108287233/194095163-c62c1bc8-fde4-49d5-bdfc-0c862565641f.png)
 
 
 #### Footer
