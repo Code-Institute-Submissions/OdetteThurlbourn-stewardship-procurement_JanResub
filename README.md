@@ -5,8 +5,6 @@ We are a company aimed at providing the client with a bespoke service aimed at s
 
 We work directly with you the client or your choosen design team to coalate ideas into a full presentation to work withon your specifications and budget.
 
-
-
 ![IAmResponsive](https://user-images.githubusercontent.com/108287233/194056451-3715dd8f-d8e6-4c9f-9a5e-327678475096.png)
 
 
