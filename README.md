@@ -204,7 +204,7 @@ _______________
 ## Credits 
 ________________________
 
-- I attribute W3School for help with background images, the contact form layout and navigation bar.
+- I attribute [W3School](https://www.w3schools.com/) for help with background images, the contact form layout and navigation bar.
 - My Mentor for advising on code corrections and helping with my footer and background image issues
 -  The 'Love Running' code helped shape my project.
 
@@ -212,7 +212,7 @@ ________________________
 ## Media
 ______________
 
-
+- Heo Image from P
 
 
 
