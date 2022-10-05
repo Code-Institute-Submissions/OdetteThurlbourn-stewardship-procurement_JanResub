@@ -7,8 +7,7 @@ We work directly with you the client or your choosen design team to coalate idea
 
 
 
-
-![am-I-responsive-example](https://user-images.githubusercontent.com/108287233/193788646-18c296fe-f1d2-46ee-b7f3-be4b445a6bce.png)
+![IAmResponsive](https://user-images.githubusercontent.com/108287233/194056451-3715dd8f-d8e6-4c9f-9a5e-327678475096.png)
 
 
 ### User Features
