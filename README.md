@@ -145,6 +145,20 @@ __________________
 - The "hero-image" width was a prpblem as it was not responding to cover the entire page, this was solved by setting the width and the max-height.
 
 
+## Validator Testing 
+____________________
+
+### HTML
+
+- No errors returned from testing. 
+
+![htmlValidator](https://user-images.githubusercontent.com/108287233/194087938-c4b13975-ac93-43fc-b47b-a90907d7e285.png)
+
+### CSS
+
+- No errors returned from testing.
+
+![cssValidator](https://user-images.githubusercontent.com/108287233/194088170-9b7856ed-dd2f-444a-b18a-9b0a35c53068.png)
 
 
 
