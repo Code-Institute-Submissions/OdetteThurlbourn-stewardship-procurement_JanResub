@@ -1,9 +1,9 @@
 
 # Welcome to Stewardship Procurement.
 
-We are a company aimed at providing the client with a bespoke service aimed at superyachts and residences.   We project manage from the very start and continue to support throughout with selection, procurement and delivery of luxury crystal, tableware, linen, lighting and assesories. 
+We are a company aimed at providing the client with a bespoke service aimed at superyachts and residences.   We project manage from the absolute start and continue to support throughout the selection, procurement and delivery of luxury crystal, tableware, linen, lighting and accessories. 
 
-We work directly with you the client or your choosen design team to coalate ideas into a full presentation to work withon your specifications and budget.
+We work directly with the client or your chosen design team to collate ideas into a full presentation to work with your specifications and budget.
 
 ![IAmResponsive](https://user-images.githubusercontent.com/108287233/194056451-3715dd8f-d8e6-4c9f-9a5e-327678475096.png)
 
@@ -11,11 +11,11 @@ We work directly with you the client or your choosen design team to coalate idea
 ## User Features
 ________________________________________
 
-As this website is only a way for clients to get in touch regarding our services to take on a project, the user is only prsented with a basic layout. We do not sell products through the website and only require the client to get in touch via our 'Contact' page to establish inital contact through which we will reach out to said client to start a dialouge to find out the initial needs of the client and thier project. 
+As this website is only a way for clients to get in touch regarding our services to take on a project, the user is only presented with a basic layout. We do not sell products through the website and only require the client to get in touch via our 'Contact' page to establish initial contact through which we will reach out to said client to start a dialogue to find out the initial needs of the client and their project.  
 
 #### Background image
 
- - The website hopes to make an impact with a asthestically pleasing first visial of a post side view into a superyacht. Setting the tone for our that we deal with high net worth individuals (HNWI) and we are a comapnt to offer a luxury service.
+ - The website hopes to make an impact that is aesthetically pleasing first visual of a port side view into a superyacht. Setting the tone that we deal with high net worth individuals (HNWI) and offer a luxury service.
 
 
 ![821-yacht-motor-yacht-go-main-deck-portside-jpg-1600x1080](https://user-images.githubusercontent.com/108287233/193803764-f8057dfb-fa4b-4c9f-b9bb-b696fe1310b8.jpg)
@@ -60,14 +60,15 @@ As this website is only a way for clients to get in touch regarding our services
 
 #### Page Navigation
 
-- Our navigation layout remains simple and user friendly, the user can visually assertain which page is active by the use of a different colour-way of tat of the main background.  This is also apparent when hovering over the navigation bar icons, the color-way chamges again, however only for the duration of the action of hovering taking place. 
+- Our navigation layout remains simple and user friendly. The user can visually assertain which page is active by the use of a different color-way of the main background. This is also apparent when hovering over the navigation bar icons.The color-way changes again however,  only for the duration of the action of hovering taking place. 
+
 
 ![Nav](https://user-images.githubusercontent.com/108287233/194095163-c62c1bc8-fde4-49d5-bdfc-0c862565641f.png)
 
 
 #### Footer
 
-- As we pride ourselves in sleek and elegant page layouts, this also goes for our social meadia presence, hence hwy we are only visiable on Instagram and Pintrest. 
+- As we pride ourselves in sleek and elegant page layouts, this also goes for our social media presence hence why we are only visiable on Instagram and Pintrest. 
 We wanted the footer to remain classic with a hint of color when hovered over; for this splash we chose:
 
 *#B74803*
@@ -86,7 +87,7 @@ We wanted the footer to remain classic with a hint of color when hovered over; f
  
  #### Gallery Page
  
- - As our business does not sell products per say, we like to showcase a few pieces and projects for the lient to get an idea or a rough guide of what beautiful peiecs are available to them. Have had clients who have based thier whole project on one inspirational image alone.  Much like we have done with t he color combination of this website. 
+ - As our business does not sell products per say, we like to showcase a few pieces and projects for the lient to get an idea or a rough guide of what beautiful peiecs are available to them. We've had clients in the past who have based thier whole project on one inspirational image alone. Much like we have done with t he color combination of this website. 
 
 ![GalleryReadMe](https://user-images.githubusercontent.com/108287233/194072796-b3d902b1-e874-4a43-9a57-20ebd59b5ce8.png)
 
@@ -94,11 +95,11 @@ We wanted the footer to remain classic with a hint of color when hovered over; f
 #### Contact Page
 
 - As we pride ourselves on privacy and exclusivity, we aim to make out clients feel special.
-Our contact page is simple and to the point, we do all the leg work and only need the client to reach out initally before we set up a client profile and dedicate a client liasion to look after said client thought the project process. 
+Our contact page is simple and to the point we do all the leg work and only need the client to reach out initally before we set up a client profile and dedicate a client liasion to look after said client thought the project process. 
 
    - As out client base is international, we only require a name and an email address for inital contact.
-   - All relevant information will be taken on the first meeting. 
-
+   - All relevant information will be recorded on the first meeting. 
+   - 
 ![ContactUsReadME](https://user-images.githubusercontent.com/108287233/194073107-4e8c67e2-5bc9-4e2d-9fb3-f8d62fbc3c2c.png)
 
 
@@ -122,7 +123,7 @@ The website tested as expected using an arrary of dimentions namly:
 2. Ipad Air (820px x 1180px)
 3. Galaxy Fold (280px x 653px)
 
-- Outcome - The website preformed as expected, howver, found that on the 280px x 653px, the gallery was slightly distored.
+- Outcome - The website preformed as expected, however we found on the 280px x 653px, the gallery was slightly distored.
 - Debug - Look into media query regarding gallery on smaller screen responses.
 
 ### Social Media Links
