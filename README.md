@@ -176,10 +176,29 @@ ____________________
 _______________
 
 - Deployment via GitHub
-1. Navigate to the settings tab within the GitHub repsoitory.
-2. Select 'source section' and from the drop down menu select 'master branch'.
-3. A link will be provided after refreshing page to the web page.
 
+1. **Navigate to the 'settings' tab within the GitHub repsoitory.**
+
+![Settings](https://user-images.githubusercontent.com/108287233/194092154-6a7cb418-d013-4c3e-8ee5-7c78a8eb0010.png)
+
+
+
+
+2. **Select 'pages' and from the side menu.**
+
+![Pages](https://user-images.githubusercontent.com/108287233/194092313-38137e9b-5dcd-4e1d-b9cd-fb9ddd70b7fb.png)
+
+
+3. **From the 'main' drop down menu, select 'main'**
+
+![main](https://user-images.githubusercontent.com/108287233/194092405-983ed02d-1500-4380-9e6a-974693a6c014.png)
+
+4. **Save.**
+
+
+5. **Refresh page and look out for the link about with your web page deployed. **
+
+![Page](https://user-images.githubusercontent.com/108287233/194092438-c127bf31-29f5-43f4-b94f-1fd9e67c3587.png)
 
 
 
