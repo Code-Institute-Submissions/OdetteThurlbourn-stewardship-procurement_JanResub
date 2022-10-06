@@ -25,7 +25,7 @@ As this website is only a way for clients to get in touch regarding our services
  
 #### Color Combination
 
-- The choice of color combinations were choosen from an image that was placed through a simple 'Pick Color From Image' renedering website namly, https://imagecolorpicker.com/en
+- The choice of color combinations were choosen from an image that was placed through a simple 'Pick Color From Image' rendering website namly, https://imagecolorpicker.com/en
 
 
 ![Screenshot 2022-10-04 121720](https://user-images.githubusercontent.com/108287233/193805472-7d6ba05b-0c82-4fea-a071-6a8f8102b3ea.png)
