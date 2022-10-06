@@ -69,7 +69,7 @@ As this website is only a way for clients to get in touch regarding our services
 
 #### Footer
 
-- As we pride ourselves in sleek and elegant page layouts, this also goes for our social media presence hence why we are only visiable on Instagram and Pintrest. 
+- As we pride ourselves in sleek and elegant page layouts, this also goes for our social media presence hence why we are only visiable on Instagram and Pinterest. 
 We wanted the footer to remain classic with a hint of color when hovered over; for this splash we chose:
 
 *#B74803*
