@@ -9,7 +9,7 @@ We work directly with the client or your chosen design team to collate ideas int
 
 ![AmIRespMedia](https://user-images.githubusercontent.com/108287233/194236508-de4f79e1-71c5-4de8-8762-e648798fa25d.png)
 
-## User Features
+# User Features
 ________________________________________
 
 As this website is only a way for clients to get in touch regarding our services to take on a project, the user is only presented with a basic layout. We do not sell products through the website and only require the client to get in touch via our 'Contact' page to establish initial contact through which we will reach out to said client to start a dialogue to find out the initial needs of the client and their project.  
@@ -103,7 +103,7 @@ Our contact page is simple and to the point, we do all the leg work and only nee
    
 ![ContactUsReadME](https://user-images.githubusercontent.com/108287233/194073107-4e8c67e2-5bc9-4e2d-9fb3-f8d62fbc3c2c.png)
 
-## Testing
+# Testing
 ________________________________________
 
 #### Webpage Platforms
@@ -135,7 +135,7 @@ All social media links were tested and preformed as expected.
 - The form method is set to "POST" and the action pushed the form to a formdump - https://formdump.codeinstitute.net/ 
 
 
-## Bugs
+# Bugs
 __________________
 
 
@@ -146,7 +146,7 @@ __________________
 - The "hero-image" width was a prpblem as it was not responding to cover the entire page, this was solved by setting the width and the max-height.
 
 
-## Validator Testing 
+# Validator Testing 
 ____________________
 
 #### HTML
@@ -173,7 +173,7 @@ ____________________
 
 ![LighthouseScore](https://user-images.githubusercontent.com/108287233/194088952-32f66d1d-1bce-4507-b748-8ffcfbc1ce7d.png)
 
-## Deployment
+# Deployment
 _______________
 
 - Deployment via GitHub
@@ -202,7 +202,7 @@ _______________
 ![Page](https://user-images.githubusercontent.com/108287233/194092438-c127bf31-29f5-43f4-b94f-1fd9e67c3587.png)
 
 
-## Credits 
+# Credits 
 ________________________
 
 - I attribute [W3School](https://www.w3schools.com/) for help with background images, the contact form layout and navigation bar.
@@ -210,7 +210,7 @@ ________________________
 -  The 'Love Running' code helped shape my project.
 
 
-## Media
+# Media
 ______________
 
 - Hero Image from [Pexels](https://www.pexels.com/)
