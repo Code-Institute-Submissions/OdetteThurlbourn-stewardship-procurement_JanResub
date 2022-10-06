@@ -7,6 +7,7 @@ We work directly with the client or your chosen design team to collate ideas int
 
 ![IAmResponsive](https://user-images.githubusercontent.com/108287233/194056451-3715dd8f-d8e6-4c9f-9a5e-327678475096.png)
 
+![AmIRespMedia](https://user-images.githubusercontent.com/108287233/194236508-de4f79e1-71c5-4de8-8762-e648798fa25d.png)
 
 ## User Features
 ________________________________________
@@ -196,7 +197,7 @@ _______________
 4. **Save.**
 
 
-5. **Refresh page and look out for the link about with your web page deployed. **
+5. **Refresh page and look out for the link above with your web page deployed. **
 
 ![Page](https://user-images.githubusercontent.com/108287233/194092438-c127bf31-29f5-43f4-b94f-1fd9e67c3587.png)
 
