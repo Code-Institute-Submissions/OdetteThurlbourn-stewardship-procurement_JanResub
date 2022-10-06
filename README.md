@@ -126,7 +126,7 @@ The website tested as expected using an arrary of dimentions namly:
 
 #### Social Media Links
 
-All social media links were tested and prefoemed as expected. 
+All social media links were tested and preformed as expected. 
 
 #### Form Entry Requirements
 
