@@ -223,6 +223,21 @@ Thank you for taking the time to read the READMe of [Stewardship Procurement](ht
 
 
 
-
+<section class="gallery">
+    <div class="gallery_column">
+      <img class="gallery-image" src="assets/images/giobagnara_collections_04s_collections_06.jpg"
+        alt="Giobagnara leather collection">
+      <img class="gallery-image" src="assets/images/giobagnara_collections_02s_collections_02.jpg"
+        alt="Giobagnara leather collection">
+      <img class="gallery-image" src="assets/images/giobagnara_collections_01s_collections_05.jpg"
+        alt="Giobagnara leather collection">
+      <img class="gallery-image" src="assets/images/LC1018_p1_l.jpeg" alt="Lin Brazil oak armchair">
+      <img class="gallery-image" src="assets/images/Cooee Cordless Lamp-NEOZ.jpg" alt="Cordless bronze metal lamp">
+      <img class="gallery-image" src="assets/images/Extrasoft_03.jpg" alt="Interchangable soft angualr sofa set">
+      <img class="gallery-image" src="assets/images/ernst-gamperl-objekte-gruppe.jpg"
+        alt="Ernst Gamperl oak sculptures">
+      <img class="gallery-image" src="assets/images/lee hun chung.jpg" alt="Ceramic sculpture set in teal and gold">
+      <img class="gallery-image" src="assets/images/hemisphere-couleur-ambiance-slider-mobile-collection_x800.webp"
+        alt="J C Couquet earth tone crockery">
 
 
