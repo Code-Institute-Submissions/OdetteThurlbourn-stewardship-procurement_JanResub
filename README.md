@@ -121,7 +121,7 @@ The website tested as expected using an array of dimensions namely:
 2. Ipad Air (820px x 1180px)
 3. Galaxy Fold (280px x 653px)
 
-- Outcome - The website preformed as expected, however we found on the 280px x 653px, the gallery was slightly distored.
+- Outcome - The website preformed as expected, however we found on the 280px x 653px, the gallery was slightly distorted.
 - Debug - Look into media query regarding gallery on smaller screen responses.
 
 #### Social Media Links
@@ -142,7 +142,7 @@ __________________
 
 - The footer was set to "relative" in place of "absolute" to keep the footer at the bottom of the page throughout responsive testing.
 
-- The "hero-image" width was a prpblem as it was not responding to cover the entire page, this was solved by setting the width and the max-height.
+- The "hero-image" width was a problem as it was not responding to cover the entire page, this was solved by setting the width and the max-height.
 
 
 # Validator Testing 
