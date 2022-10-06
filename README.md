@@ -16,7 +16,7 @@ As this website is only a way for clients to get in touch regarding our services
 
 #### Background image
 
- - The website hopes to make an impact that is aesthetically pleasing first visual of a port side view into a superyacht. Setting the tone that we deal with high net worth individuals (HNWI) and offer a luxury service.
+ - The website hopes to make an aesthetically pleasing impact with its first image of a port side view into a superyacht. Setting the tone that we deal with high net worth individuals (HNWI) and offer a luxury service.
 
 
 ![821-yacht-motor-yacht-go-main-deck-portside-jpg-1600x1080](https://user-images.githubusercontent.com/108287233/193803764-f8057dfb-fa4b-4c9f-b9bb-b696fe1310b8.jpg)
