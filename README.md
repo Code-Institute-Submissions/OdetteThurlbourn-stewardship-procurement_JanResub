@@ -3,7 +3,7 @@
 
 We are a company aimed at providing the client with a bespoke service aimed at superyachts and residences.   We project manage from the absolute start and continue to support throughout the selection, procurement and delivery of luxury crystal, tableware, linen, lighting and accessories. 
 
-We work directly with the client or your chosen design team to collate ideas into a full presentation to work with your specifications and budget.
+We work directly with the client or your chosen design team to collate ideas into a full presentation to work towards your specifications and budget.
 
 ![IAmResponsive](https://user-images.githubusercontent.com/108287233/194056451-3715dd8f-d8e6-4c9f-9a5e-327678475096.png)
 
