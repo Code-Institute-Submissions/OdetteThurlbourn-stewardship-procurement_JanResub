@@ -88,17 +88,17 @@ We wanted the footer to remain classic with a hint of color when hovered over; f
  
  #### Gallery Page
  
- - As our business does not sell products per say, we like to showcase a few pieces and projects for the lient to get an idea or a rough guide of what beautiful peiecs are available to them. We've had clients in the past who have based thier whole project on one inspirational image alone. Much like we have done with t he color combination of this website. 
+ - As our business does not sell products, we like to showcase a few pieces and projects for the client to get an idea or a rough guide of what beautiful pieces are available to them. We've had clients in the past who have based their whole project on one inspirational image alone. Much like we have done with the color combination of this website. 
 
 ![GalleryReadMe](https://user-images.githubusercontent.com/108287233/194072796-b3d902b1-e874-4a43-9a57-20ebd59b5ce8.png)
 
 
 #### Contact Page
 
-- As we pride ourselves on privacy and exclusivity, we aim to make out clients feel special.
-Our contact page is simple and to the point we do all the leg work and only need the client to reach out initally before we set up a client profile and dedicate a client liasion to look after said client thought the project process. 
+- As we pride ourselves on privacy and exclusivity, we aim to make our clients feel special.
+Our contact page is simple and to the point, we do all the leg work and only need the client to reach out initally before we set up a client profile, and dedicate a client liasion to look after said client throughout the project process. 
 
-   - As out client base is international, we only require a name and an email address for inital contact.
+   - As our client base is international, we only require a name and an email address for inital contact.
    - All relevant information will be recorded on the first meeting. 
    
 ![ContactUsReadME](https://user-images.githubusercontent.com/108287233/194073107-4e8c67e2-5bc9-4e2d-9fb3-f8d62fbc3c2c.png)
