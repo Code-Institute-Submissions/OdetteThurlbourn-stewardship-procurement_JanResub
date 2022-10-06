@@ -6,8 +6,7 @@ We are a company aimed at providing the client with a bespoke service aimed at s
 We work directly with the client or your chosen design team to collate ideas into a full presentation to work towards your specifications and budget.
 
 ![IAmResponsive](https://user-images.githubusercontent.com/108287233/194056451-3715dd8f-d8e6-4c9f-9a5e-327678475096.png)
-
-![AmIRespMedia](https://user-images.githubusercontent.com/108287233/194236508-de4f79e1-71c5-4de8-8762-e648798fa25d.png)
+![AMIRESPONSIVE](https://user-images.githubusercontent.com/108287233/194306656-ac57e345-7465-4619-b64b-6642c8d9a99f.png)
 
 # User Features
 ________________________________________
