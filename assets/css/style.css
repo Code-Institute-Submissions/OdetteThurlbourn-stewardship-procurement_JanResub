@@ -37,7 +37,7 @@ h3 {
   font-size: 40px;
 }
 
-/* naviagation */
+/* naviagation W3School - https://www.w3schools.com/css/css_navbar.asp*/
 
 .topnav {
   overflow: hidden;
@@ -72,7 +72,7 @@ ul li {
   padding: 1rem 3rem;
 }
 
-/* contact us */
+/* contact us W3School - https://www.w3schools.com/howto/howto_css_contact_form.asp*/
 
 body {font-family: 'Open Sans', sans-serif;}
 * {box-sizing: border-box;}
@@ -120,7 +120,7 @@ input[type=submit]:hover {
   max-height: 70vh;
 }
 
-/* gallery page */
+/* gallery page - Love Running*/
 
 .gallery_column {
   clear: both;
