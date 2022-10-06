@@ -139,9 +139,9 @@ All social media links were tested and preformed as expected.
 __________________
 
 
-- The gallery proved to be a challengiing element as the images were not responding to code instruction to appare the same width and height - this was corrected by using the 'Love Running' masonry ga;;ery layout and setting "clear" to both.
+- The gallery proved to be a challenging element as the images were not responding to code instruction to appear the same width and height - this was corrected by using the 'Love Running' masonry gallery layout and setting "clear" to both.
 
-- The footer was set to "relative" in place of "absolute" to keep the footer at the bottom of the page through responsive testing.
+- The footer was set to "relative" in place of "absolute" to keep the footer at the bottom of the page throughout responsive testing.
 
 - The "hero-image" width was a prpblem as it was not responding to cover the entire page, this was solved by setting the width and the max-height.
 
