@@ -89,7 +89,7 @@ We wanted the footer to remain classic with a hint of color when hovered over; f
  
  - As our business does not sell products, we like to showcase a few pieces and projects for the client to get an idea or a rough guide of what beautiful pieces are available to them. We've had clients in the past who have based their whole project on one inspirational image alone. Much like we have done with the color combination of this website. 
 
-![GalleryReadMe](https://user-images.githubusercontent.com/108287233/194072796-b3d902b1-e874-4a43-9a57-20ebd59b5ce8.png)
+![gallery](https://user-images.githubusercontent.com/108287233/194310063-6d9034c4-d374-4a48-b275-6ede08509a55.png)
 
 
 #### Contact Page
@@ -213,36 +213,3 @@ ______________
 _________________________________
 Thank you for taking the time to read the READMe of [Stewardship Procurement](https://odettethurlbourn.github.io/stewardship-procurement/). 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <section class="gallery">
-    <div class="gallery_column">
-      <img class="gallery-image" src="assets/images/giobagnara_collections_04s_collections_06.jpg"
-        alt="Giobagnara leather collection">
-      <img class="gallery-image" src="assets/images/giobagnara_collections_02s_collections_02.jpg"
-        alt="Giobagnara leather collection">
-      <img class="gallery-image" src="assets/images/giobagnara_collections_01s_collections_05.jpg"
-        alt="Giobagnara leather collection">
-      <img class="gallery-image" src="assets/images/LC1018_p1_l.jpeg" alt="Lin Brazil oak armchair">
-      <img class="gallery-image" src="assets/images/CooeeCordlessLamp-NEOZ.jpg" alt="Cordless bronze metal lamp">
-      <img class="gallery-image" src="assets/images/Extrasoft_03.jpg" alt="Interchangable soft angualr sofa set">
-      <img class="gallery-image" src="assets/images/ernst-gamperl-objekte-gruppe.jpg"
-        alt="Ernst Gamperl oak sculptures">
-      <img class="gallery-image" src="assets/images/leeHunChung.jpg" alt="Ceramic sculpture set in teal and gold">
-      <img class="gallery-image" src="assets/images/hemisphere-couleur-ambiance-slider-mobile-collection_x800.webp"
-        alt="J C Couquet earth tone crockery">
-    </div>
-    </section>
