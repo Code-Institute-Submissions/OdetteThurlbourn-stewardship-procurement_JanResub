@@ -99,15 +99,13 @@ Our contact page is simple and to the point we do all the leg work and only need
 
    - As out client base is international, we only require a name and an email address for inital contact.
    - All relevant information will be recorded on the first meeting. 
-   - 
+   
 ![ContactUsReadME](https://user-images.githubusercontent.com/108287233/194073107-4e8c67e2-5bc9-4e2d-9fb3-f8d62fbc3c2c.png)
-
-
 
 ## Testing
 ________________________________________
 
-### Webpage Platforms
+#### Webpage Platforms
 
 The website testing was carried out on the following platforms: 
 1. Google Chrome
@@ -116,7 +114,7 @@ The website testing was carried out on the following platforms:
 
 - Outcome - The website preformed as expected on the three diffrent platforms.
 
-### Responsivness
+#### Responsivness
 
 The website tested as expected using an arrary of dimentions namly:
 1. Iphone 12 Pro (390px x 844px)
@@ -126,13 +124,14 @@ The website tested as expected using an arrary of dimentions namly:
 - Outcome - The website preformed as expected, however we found on the 280px x 653px, the gallery was slightly distored.
 - Debug - Look into media query regarding gallery on smaller screen responses.
 
-### Social Media Links
+#### Social Media Links
 
 All social media links were tested and prefoemed as expected. 
 
-### Form Entry Requirements
+#### Form Entry Requirements
 
-ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+- Form was tested and responded as expected, email is required along with name and surmane
+- The form method is set to "POST" and the action pushed the form to a formdump - https://formdump.codeinstitute.net/ 
 
 
 ## Bugs
@@ -149,19 +148,19 @@ __________________
 ## Validator Testing 
 ____________________
 
-### HTML
+#### HTML
 
 - No errors returned from testing. 
 
 ![htmlValidator](https://user-images.githubusercontent.com/108287233/194087938-c4b13975-ac93-43fc-b47b-a90907d7e285.png)
 
-### CSS
+#### CSS
 
 - No errors returned from testing.
 
 ![cssValidator](https://user-images.githubusercontent.com/108287233/194088170-9b7856ed-dd2f-444a-b18a-9b0a35c53068.png)
 
-### Accessibility
+#### Accessibility
 
 - Preformance of the site is not strong due to:
 1. Image sizes
