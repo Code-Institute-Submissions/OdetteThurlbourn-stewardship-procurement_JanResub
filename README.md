@@ -113,11 +113,11 @@ The website testing was carried out on the following platforms:
 2. FireFox
 3. Safari
 
-- Outcome - The website preformed as expected on the three diffrent platforms.
+- Outcome - The website preformed as expected on the three different platforms.
 
 #### Responsivness
 
-The website tested as expected using an arrary of dimentions namly:
+The website tested as expected using an array of dimensions namely:
 1. Iphone 12 Pro (390px x 844px)
 2. Ipad Air (820px x 1180px)
 3. Galaxy Fold (280px x 653px)
@@ -139,7 +139,7 @@ All social media links were tested and preformed as expected.
 __________________
 
 
-- The gallery proved to be a challenging element as the images were not responding to code instruction to appear the same width and height - this was corrected by using the 'Love Running' masonry gallery layout and setting "clear" to both.
+- The gallery proved to be a challenging element as the images were not responding to code instruction to appear the same width and height - this was corrected by using the 'Love Running' gallery layout and setting "clear" to both.
 
 - The footer was set to "relative" in place of "absolute" to keep the footer at the bottom of the page throughout responsive testing.
 
