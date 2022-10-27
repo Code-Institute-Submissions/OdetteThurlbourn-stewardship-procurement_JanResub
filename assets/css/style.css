@@ -182,6 +182,10 @@ footer {
     font-size: .7rem;
   }
 
+
+.gallery_column {
+  column-count: 1;
+}
 }
 @media screen and (max-width: 365px) {
   .topnav a {
