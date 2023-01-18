@@ -20,6 +20,21 @@ p {
   text-align: center;
   padding-left: 3px;
 }
+
+.contact-home-btn {
+  background: #27160d;
+  width: 100px;
+  border: none;
+  outline: none;
+  color: #fff;
+  height: 25px;
+  border-radius: 30px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  box-shadow: 0px 5px 15px 0px rgba(39, 22, 13, 1);
+  cursor: pointer;
+}
+
 .container {
   color: #ece1d3;
   max-width: 1140px;
@@ -35,6 +50,22 @@ h3 {
   text-align: center;
   background: #27160d;
   font-size: 40px;
+}
+
+/* Home 'Contact Us' button */
+
+.contact-home-btn {
+  background: blue;
+  width: 100px;
+  border: none;
+  outline: none;
+  color: red;
+  height: 25px;
+  border-radius: 30px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  /* box-shadow: 0px 5px 15px 0px rgba(39, 22, 13, 1); */
+  cursor: pointer;
 }
 
 /* naviagation W3School - https://www.w3schools.com/css/css_navbar.asp*/
@@ -146,7 +177,7 @@ input[type=submit]:hover {
   
 }
 
-/*footer */
+/*Footer */
 
 footer {
   position: relative;
@@ -185,18 +216,19 @@ footer {
   transition: color 0.3s ease-in;
 }
 
-/* media query */
+/* Media Queries */
 
 @media screen and (max-width: 450px) {
   .topnav a {
     font-size: .7rem;
   }
 
-
 .gallery_column {
   column-count: 1;
-}
-}
+} 
+
+
+
 @media screen and (max-width: 365px) {
   .topnav a {
     font-size: .6rem;
@@ -207,5 +239,6 @@ footer {
   .topnav a {
     font-size: .45rem;
   }
-  
 }
+  
+ 
