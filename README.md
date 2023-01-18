@@ -1,7 +1,7 @@
 
 # Welcome to Stewardship Procurement.
 
-We are a company aimed at providing the client with a bespoke service aimed at superyachts and residences.   We project manage from the absolute start and continue to support throughout the selection, procurement and delivery of luxury crystal, tableware, linen, lighting and accessories. 
+At Stewardship Procurement, we specialize in providing bespoke services for superyachts and residences. We project manage the selection, procurement, and delivery of luxury items such as crystal, tableware, linen, lighting, and accessories. We work closely with our clients or their chosen design teams to collate ideas and create a full presentation that meets their specifications and budget. We are dedicated to providing a luxury service to high net worth individuals.
 
 We work directly with the client or your chosen design team to collate ideas into a full presentation to work towards your specifications and budget.
 ![stewardshipAmIRespons001](https://user-images.githubusercontent.com/108287233/213193331-6cff3d88-c486-4033-9860-dc13e7550af1.png)
@@ -12,7 +12,7 @@ We work directly with the client or your chosen design team to collate ideas int
 # User Features
 ________________________________________
 
-As this website is only a way for clients to get in touch regarding our services to take on a project, the user is only presented with a basic layout. We do not sell products through the website and only require the client to get in touch via our 'Contact' page to establish initial contact through which we will reach out to said client to start a dialogue to find out the initial needs of the client and their project.  
+Our website serves as a primary point of contact for potential clients seeking to engage our services for their project needs. The layout of the website has been designed to be streamlined and user-friendly, as we do not offer any products for sale through the website. To initiate the process, we invite clients to reach out to us via the with the use of a 'call-to-action' button found on the homepage which leads to the 'Contact' page, where they will subsequently make contact with us to discuss their project requirements in greater detail and establish a mutual understanding of their needs.  
 
 #### Background image
 
