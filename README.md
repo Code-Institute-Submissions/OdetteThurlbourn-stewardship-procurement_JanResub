@@ -61,7 +61,7 @@ Our website serves as a primary point of contact for potential clients seeking t
 
 #### Page Navigation
 
-- Our navigation layout remains simple and user friendly. The user can visually assertain which page is active by the use of a different color-way of the main background. This is also apparent when hovering over the navigation bar icons.The color-way changes again however,  only for the duration of the action of hovering taking place. 
+- Our navigation design is characterized by its simplicity and ease of use for the user. The active page can be easily identified through the use of distinct color variations on the main background. This feature is also evident when the user hovers over the navigation bar icons, as the color scheme changes temporarily during the hover action. 
 
 
 ![Nav](https://user-images.githubusercontent.com/108287233/194095163-c62c1bc8-fde4-49d5-bdfc-0c862565641f.png)
