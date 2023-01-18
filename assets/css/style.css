@@ -5,7 +5,7 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
-/* heading, paragraph, logo */
+/* HOMEPAGE Heading styling rules */
 
 h2 {
   font-family: Prata, sans-serif;
@@ -15,12 +15,16 @@ h2 {
   background: #27160d;
   font-size: 30px;
 }
+
+/* HOMEPAGE Paragraph styling rules */
 p {
   color: #ece1d3;
   text-align: center;
   padding-left: 3px;
 }
 
+
+/*HOMEPAGE call-to-action styliing rules */
 .contact-home-btn {
   background: #B74803;
   width: 100px;
@@ -35,6 +39,7 @@ p {
   cursor: pointer;
 }
 
+/*HOMEPAGE container (background etc) styling rules*/
 .container {
   color: #ece1d3;
   max-width: 1140px;
@@ -44,16 +49,8 @@ p {
   margin: 0 auto;
 }
 
-h3 {
-  font-family: Prata, sans-serif;
-  color: #ece1d3;
-  padding: 30px;
-  text-align: center;
-  background: #27160d;
-  font-size: 40px;
-}
-
-/* Naviagation - Credit -  W3School - https://www.w3schools.com/css/css_navbar.asp*/
+/* Naviagation for HOMEPAGE GALLERY & CONTACT Page
+Credit -  W3School - https://www.w3schools.com/css/css_navbar.asp*/
 
 .topnav {
   overflow: hidden;
@@ -88,7 +85,8 @@ ul li {
   padding: 1rem 3rem;
 }
 
-/* contact us page - Credit - W3School - https://www.w3schools.com/howto/howto_css_contact_form.asp*/
+/* CONTACT Page styling rules
+Credit - W3School - https://www.w3schools.com/howto/howto_css_contact_form.asp*/
 
 body {font-family: 'Open Sans', sans-serif;}
 * {box-sizing: border-box;}
@@ -112,8 +110,10 @@ input[type=email], select, textarea {
   margin-bottom: 16px;
   resize: vertical;
 }
+
+/* CONTACT Page 'submit' button styling rules */
 input[type=submit] {
-  background-color: #ccc;
+  background-color: #B74803;
   color: #27160d;
   padding: 12px 20px;
   border: none;
@@ -121,7 +121,7 @@ input[type=submit] {
   cursor: pointer;
 }
 input[type=submit]:hover {
-  background-color: #B74803;
+  background-color: #fefefe;
 }
 .container {
   border-radius: 5px;
