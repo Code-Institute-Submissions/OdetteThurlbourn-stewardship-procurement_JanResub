@@ -22,7 +22,7 @@ p {
 }
 
 .contact-home-btn {
-  background: #27160d;
+  background: #B74803;
   width: 100px;
   border: none;
   outline: none;
@@ -50,22 +50,6 @@ h3 {
   text-align: center;
   background: #27160d;
   font-size: 40px;
-}
-
-/* Home 'Contact Us' button */
-
-.contact-home-btn {
-  background: blue;
-  width: 100px;
-  border: none;
-  outline: none;
-  color: red;
-  height: 25px;
-  border-radius: 30px;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  /* box-shadow: 0px 5px 15px 0px rgba(39, 22, 13, 1); */
-  cursor: pointer;
 }
 
 /* naviagation W3School - https://www.w3schools.com/css/css_navbar.asp*/
