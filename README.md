@@ -11,11 +11,10 @@ We work directly with the client or your chosen design team to collate ideas int
 # User Features
 ________________________________________
 
-Our website serves as a primary point of contact for potential clients seeking to engage our services for their project needs. The layout of the website has been designed to be streamlined and user-friendly, as we do not offer any products for sale through the website. To initiate the process, we invite clients to reach out to us via the with the use of a 'call-to-action' button found on the homepage which leads to the 'Contact' page, where they will subsequently make contact with us to discuss their project requirements in greater detail and establish a mutual understanding of their needs.  
-
+Our website serves as the primary point of contact for potential clients seeking to engage our services for their project needs. The layout of the website is streamlined and user-friendly, as we do not offer any products for sale. To initiate the process, we invite clients to reach out to us through the use of a prominent 'Click Here!' button located on the homepage. This will lead them to the 'Contact' page, where they can discuss their project requirements in greater detail and establish a mutual understanding of their needs with our team.
 #### Background image
 
- - The website hopes to make an aesthetically pleasing impact with its first image of a port side view into a superyacht. Setting the tone that we deal with high net worth individuals (HNWI) and offer a luxury service.
+ - The website aims to make a visually striking impression through the use of an image of a port side view of a superyacht on the homepage. This image serves to convey the high-end, luxury nature of our services, and the fact that we cater to high net worth individuals (HNWI).
 
 
 ![821-yacht-motor-yacht-go-main-deck-portside-jpg-1600x1080](https://user-images.githubusercontent.com/108287233/193803764-f8057dfb-fa4b-4c9f-b9bb-b696fe1310b8.jpg)
@@ -41,12 +40,12 @@ Our website serves as a primary point of contact for potential clients seeking t
   *#ece1d3*
   ![Screenshot 2022-10-04 120055](https://user-images.githubusercontent.com/108287233/193812911-fe2fe58e-a561-4d24-a95d-52e37d43c3cb.png)
 
-   - Navigation bar background, h2 heading background and contact page h3 heading background 
+   - Navigation bar background, h2 heading background and contact page heading background 
   
   *#27160d*
   ![Screenshot 2022-10-04 120002](https://user-images.githubusercontent.com/108287233/193813066-96346903-34f1-4480-935f-746ef8482c81.png)
 
-  - Navigation bar background, h2 heading background and contact page h3 heading background 
+  - Navigation bar background, h2 heading background and contact page heading background 
   
   *#5f3d23*
   ![Screenshot 2022-10-04 115702](https://user-images.githubusercontent.com/108287233/193813173-1caab7ea-3958-4b46-bd16-ff11cbba150b.png)
@@ -68,8 +67,8 @@ Our website serves as a primary point of contact for potential clients seeking t
 
 #### Footer
 
-- As we pride ourselves in sleek and elegant page layouts, this also goes for our social media presence hence why we are only visiable on Instagram and Pinterest. 
-We wanted the footer to remain classic with a hint of color when hovered over; for this splash we chose:
+- As we pride ourselves in sleek and elegant page layouts, this also applies to our social media presence, which is why we have chosen to be visible only on Instagram and Pinterest.
+Our footer is designed to remain classic with a hint of color when hovered over. The color scheme chosen for this accent is:
 
 *#B74803*
 ![footer-color-way](https://user-images.githubusercontent.com/108287233/193812777-8fae6714-8f02-46bf-b7d5-95849843a1ed.png)
@@ -87,7 +86,7 @@ We wanted the footer to remain classic with a hint of color when hovered over; f
  
  #### Gallery Page
  
- - As our business does not sell products, we like to showcase a few pieces and projects for the client to get an idea or a rough guide of what beautiful pieces are available to them. We've had clients in the past who have based their whole project on one inspirational image alone. Much like we have done with the color combination of this website. 
+ - As our business does not sell products, we prefer to showcase a few pieces and projects for clients to get an idea or rough guide of the beautiful pieces available to them. We have had clients in the past who have based their entire project on one inspirational image alone. Similarly, we have used a specific color combination for this website as an inspiration for our clients. 
 
 ![gallery](https://user-images.githubusercontent.com/108287233/194310063-6d9034c4-d374-4a48-b275-6ede08509a55.png)
 
@@ -95,7 +94,7 @@ We wanted the footer to remain classic with a hint of color when hovered over; f
 #### Contact Page
 
 - As we pride ourselves on privacy and exclusivity, we aim to make our clients feel special.
-Our contact page is simple and to the point, we do all the leg work and only need the client to reach out initally before we set up a client profile, and dedicate a client liasion to look after said client throughout the project process. 
+Our contact page is simple and straightforward, we handle all the necessary steps and only require the client to reach out initially before we set up a client profile and dedicate a client liaison to look after the client throughout the project process.
 
    - As our client base is international, we only require a name and an email address for inital contact.
    - All relevant information will be recorded on the first meeting. 
