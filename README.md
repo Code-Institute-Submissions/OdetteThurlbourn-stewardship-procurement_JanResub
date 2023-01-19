@@ -164,7 +164,8 @@ ____________________
 
 - Lighthouse Score
 
-![LighthouseScore](https://user-images.githubusercontent.com/108287233/194305750-d99506ef-cd93-4ff5-bcf8-1763682cec30.png)
+![lightHouseScorePP1](https://user-images.githubusercontent.com/108287233/213408969-c359b3a0-9332-43fb-a383-3bdad6cc723e.png)
+
 
 # Deployment
 _______________
