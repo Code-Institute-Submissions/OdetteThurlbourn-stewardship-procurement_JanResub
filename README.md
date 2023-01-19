@@ -4,7 +4,6 @@
 At Stewardship Procurement, we specialize in providing bespoke services for superyachts and residences. We project manage the selection, procurement, and delivery of luxury items such as crystal, tableware, linen, lighting, and accessories. We work closely with our clients or their chosen design teams to collate ideas and create a full presentation that meets their specifications and budget. We are dedicated to providing a luxury service to high net worth individuals.
 
 We work directly with the client or your chosen design team to collate ideas into a full presentation to work towards your specifications and budget.
-![stewardshipAmIRespons001](https://user-images.githubusercontent.com/108287233/213193331-6cff3d88-c486-4033-9860-dc13e7550af1.png)
 ![stewardshipAmIRespons002](https://user-images.githubusercontent.com/108287233/213193365-0e7fe381-053e-4c69-ba52-376f1118d13c.png)
 
 
