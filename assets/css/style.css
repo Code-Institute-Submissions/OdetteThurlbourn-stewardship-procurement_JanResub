@@ -24,15 +24,15 @@ p {
 }
 
 
-/*HOMEPAGE call-to-action styliing rules */
+/*HOMEPAGE call-to-action button styling rules */
 .contact-home-btn {
   background: #B74803;
-  width: 100px;
+  width: 120px;
   border: none;
   outline: none;
   color: #fff;
   height: 25px;
-  border-radius: 30px;
+  border-radius: 5px;
   margin-top: 0px;
   margin-bottom: 0px;
   box-shadow: 0px 5px 15px 0px rgba(39, 22, 13, 1);
